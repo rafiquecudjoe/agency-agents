@@ -8,7 +8,6 @@
 Thumbs.db
 
 # Editor directories and files
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -73,3 +72,7 @@ integrations/opencode/agent/
 integrations/cursor/rules/
 integrations/aider/CONVENTIONS.md
 integrations/windsurf/.windsurfrules
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
